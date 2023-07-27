@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @macaugh
 - 👀 I’m interested in scuba diving, hacking, software development, and gardening.
 - 🌱 I’m currently learning hacking and fuzzing.
-- 💞️ I’m looking to collaborate on code review products.
+- 💞️ I’m looking to collaborate on hacking automation products.
 - 📫 How to reach me...
 
 <h1 align="center">Hi 👋, I'm Matt Caughman</h1>
