@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Matt Caughman</h1>
 <h3 align="center">Electrical and Computer Engineer | Fullstack Developer | Embedded Developer</h3>
 <h3 aling="center">I earned my Bachelors in Electrical and Computer Engineer from The University of Texas at Austin.</h3>
-<h3 aling="center">I worked primarily in Em.</h3>
+<h3 aling="center">I worked primarily in Embedded C, Python, C.</h3>
 
 <!---p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorcampelo&row=1&column=6&margin-w=15&margin-h=15" alt="macaugh" /></a> </p--->
 
