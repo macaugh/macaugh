@@ -1,14 +1,14 @@
-### 👨💻 About Me
+### About Me
 
-- 🔐 Software engineer with a passion for **bug bounty hunting** and **offensive security**
-- 🤖 Building **AI-powered security tools** and **automation frameworks**
-- 🛠 Creating **Claude Code plugins**, **MCP servers**, and **custom security tooling**
-- 🌱 Currently learning **advanced fuzzing techniques**, **API security**, and **AI agent development**
-- 💞 Looking to collaborate on **security automation**, **bug bounty tools**, and **AI agent systems**
+- Software engineer with a passion for **bug bounty hunting** and **offensive security**
+- Building **AI-powered security tools** and **automation frameworks**
+- Creating **Claude Code plugins**, **MCP servers**, and **custom security tooling**
+- Currently learning **advanced fuzzing techniques**, **API security**, and **AI agent development**
+- Looking to collaborate on **security automation**, **bug bounty tools**, and **AI agent systems**
 
 ---
 
-### 🔬 Featured Projects
+### Featured Projects
 
 #### Security & Bug Bounty
 - **recon-infra** - Automated bug bounty reconnaissance infrastructure with microservices architecture (Go, Docker)
