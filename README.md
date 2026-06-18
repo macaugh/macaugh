@@ -3,7 +3,7 @@
 <h1>Matthew Caughman</h1>
 
 <a href="https://github.com/macaugh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Security+Engineering+%C2%B7+AI+Agent+Systems+%C2%B7+Offensive+Security;Fullstack+%C2%B7+Distributed+Systems+%C2%B7+Bug+Bounty;Ruby+%C2%B7+Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+Claude+Code+%C2%B7+MCP" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Engineering+%C2%B7+AI+Agent+Systems+%C2%B7+Security;Fullstack+%C2%B7+Distributed+Systems+%C2%B7+Bug+Bounty;Ruby+%C2%B7+Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+Claude+Code+%C2%B7+MCP" alt="typing header" />
 </a>
 
 ### Building AI-powered security systems. Shipping production infrastructure.
