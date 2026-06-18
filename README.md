@@ -189,7 +189,7 @@ Tiny, fast, and deployable anywhere. Automate the mundane, unleash your creativi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=macaugh&hide_border=true&theme=github-dark-blue" />
+<img height="160" src="https://streak-stats.demolab.com/?user=macaugh&hide_border=true&theme=github-dark-blue" />
 
 </div>
 
